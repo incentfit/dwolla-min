@@ -1,0 +1,7 @@
+{
+  "name": "dwolla-min",
+  "main": "./dwolla.min.js",
+  "author": "IncentFit",
+  "homepage": "https://github.com/incentfit/dwolla-min",
+  "version": "1.0.0"
+}
